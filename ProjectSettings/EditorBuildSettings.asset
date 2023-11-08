@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1Menu.unity
+    guid: 0d93a65427ce17a47a8283e0dd1c0bb1
+  - enabled: 1
+    path: Assets/Scenes/CutScene.unity
+    guid: 211bcff43a1bf4147b9ae40d6e7eace4
+  - enabled: 1
+    path: Assets/Scenes/GameDificultyMenu.unity
+    guid: 0f9383c5b4c407b4da5c7500489aacf0
+  - enabled: 1
+    path: Assets/Scenes/LVL1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LVL2.unity
+    guid: 078ec2e93476aee4ebdcd386315eb5cf
+  - enabled: 1
+    path: Assets/Scenes/LVL3.unity
+    guid: 5b8fb1aaca2ccd940a6dbff5643f0cb6
+  - enabled: 1
+    path: Assets/Scenes/LVL4.unity
+    guid: 1728f27ae97d31b48aff2c3f81fd2488
+  - enabled: 1
+    path: Assets/Scenes/LVL5.unity
+    guid: 2fa6b34fea8c64443ab538e8f5fc8097
+  - enabled: 1
+    path: Assets/Scenes/LVL6.unity
+    guid: c47a91e8e85de574ab7e35a238e7b51c
+  - enabled: 1
+    path: Assets/Scenes/LVL7.unity
+    guid: 85457e8fc66028949bec75375289d7f7
+  - enabled: 1
+    path: Assets/Scenes/LVL8.unity
+    guid: 299e4fbbe3ea8fc42ae4082db583bf20
+  - enabled: 1
+    path: Assets/Scenes/LVL9.unity
+    guid: 002286f174c39ee4397f85ea4f5bd758
+  - enabled: 1
+    path: Assets/Scenes/LVL10.unity
+    guid: 44303485851a7894383d9e2fc58b4195
+  - enabled: 1
+    path: Assets/Scenes/EndGameMenu.unity
+    guid: d444069267fc62a4a9ff9d5de9ebae41
+  m_configObjects: {}
